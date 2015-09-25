@@ -1,6 +1,6 @@
 ---
-title: Dreams
-subtitle: Website Design
+title: Moodle
+subtitle: Ambiente Virtual de Aprendizagem
 layout: default
 modal-id: 1
 date: 2014-07-18
