@@ -1,17 +1,15 @@
 ---
-title: Moodle
-subtitle: Ambiente Virtual de Aprendizagem
+title: Dreams
+subtitle: Website Design
 layout: default
 modal-id: 1
 date: 2014-07-18
-img: moodle.png
-thumbnail: moodle-thumbnail.png
+img: dreams.png
+thumbnail: dreams-thumbnail.png
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
 category: Web Development
-description: MOODLE é o acrónimo de "Modular Object-Oriented Dynamic Learning Environment", um software livre, de apoio à aprendizagem, executado num ambiente virtual (ver ambiente virtual de aprendizagem). A expressão designa ainda o Learning Management System (Sistema de gestão da aprendizagem) em trabalho colaborativo baseado nesse software ou plataforma, acessível através da Internet ou de rede local. Em linguagem coloquial, em língua inglesa o verbo "to moodle" descreve o processo de navegar despretensiosamente por algo, enquanto fazem-se outras coisas ao mesmo tempo. 
-
-Utilizado principalmente num contexto de e-learning ou b-learning, o programa permite a criação de cursos "on-line", páginas de disciplinas, grupos de trabalho e comunidades de aprendizagem, estando disponível em 75 línguas diferentes. Conta com 25.000 websites registrados, em mais de 175 países.
+description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
 
 ---
